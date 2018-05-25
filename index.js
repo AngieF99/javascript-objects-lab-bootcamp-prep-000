@@ -6,6 +6,6 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
-  object[key]='value'
+  object[prop2]='value'
   return object
 }
